@@ -6,8 +6,9 @@ Small, opinionated tools built carefully. Local-first, native, private by defaul
 
 ## Now building
 
-**TuneDeck** — a standalone terminal music player in Rust: Spotify, local,
-Subsonic, radio, and YouTube in one TUI. `preview · source release pending`
+**TuneDeck** — a macOS-focused terminal music experience built on the
+spotatui / spotify-tui lineage, with downstream improvements, packaging,
+and product direction. `maintained fork · preview`
 
 ## Featured
 
