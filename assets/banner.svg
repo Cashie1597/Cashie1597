@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#101521"/>
+      <stop offset="100%" stop-color="#0b0f18"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <circle cx="1180" cy="40" r="300" fill="#287c7a" opacity="0.09"/>
+  <circle cx="90" cy="300" r="220" fill="#efa58a" opacity="0.055"/>
+  <g transform="translate(96,104)">
+    <rect width="112" height="112" rx="24" fill="#0d111c"/>
+    <path d="M 79 34 A 29 29 0 1 0 79 78" fill="none" stroke="#f6efe6" stroke-width="13" stroke-linecap="round"/>
+    <circle cx="79" cy="56" r="7" fill="#287c7a"/>
+  </g>
+  <text x="248" y="152" font-family="Helvetica Neue, Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="-1.5" fill="#f6efe6">Cashie</text>
+  <rect x="250" y="176" width="52" height="4" fill="#287c7a"/>
+  <text x="250" y="222" font-family="Helvetica Neue, Arial, sans-serif" font-size="25" fill="#9a9689">Small, opinionated tools built carefully.</text>
+  <text x="250" y="258" font-family="Menlo, monospace" font-size="17" fill="#5d6370">local-first  ·  native  ·  private by default</text>
+</svg>

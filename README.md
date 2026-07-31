@@ -1,6 +1,4 @@
-# Cashie
-
-Small, opinionated tools built carefully. Local-first, native, private by default.
+<img src="assets/banner.png" alt="Cashie — small, opinionated tools built carefully" width="100%">
 
 `posture · local-first` `design · DEPTHS` `stack · rust · swift · typescript`
 
